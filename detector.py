@@ -1,6 +1,6 @@
 import cv2
 import numpy as np
-from stakImages import stackImages
+from stackImages import stackImages
 
 
 def empty(a):
